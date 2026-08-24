@@ -1,16 +1,29 @@
-## Hi there 👋
+Olá! 👋
 
-<!--
-**Gabriel-Silva11/Gabriel-Silva11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Gabriel Silva, estudante de Ciência da Computação na UDF e formado em Técnico em Tecnologia da Informação pelo Instituto Federal de Brasília (IFB).
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo meus conhecimentos em programação e explorando diferentes áreas da computação para descobrir onde quero construir minha carreira.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tecnologias
+Python
+Java
+C#
+JavaScript
+SQL
+HTML
+CSS
+🎓 Formação
+Ciência da Computação — UDF | 2026 – presente
+Técnico em Tecnologia da Informação — IFB | 2020 – 2023
+🚀 Atualmente
+
+Estou estudando Ciência da Computação e desenvolvendo projetos acadêmicos e pessoais para colocar meus conhecimentos em prática e construir meu portfólio.
+
+🎯 Objetivos
+Aprimorar meus conhecimentos em programação
+Desenvolver projetos práticos
+Explorar diferentes áreas da computação
+Construir meu portfólio
+Buscar minha primeira oportunidade de estágio em tecnologia
+
+📫 Estou sempre buscando aprender algo novo e evoluir na área de tecnologia.
