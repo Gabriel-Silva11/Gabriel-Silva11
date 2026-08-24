@@ -1,6 +1,6 @@
 Olá! 👋
 
-Eu sou Gabriel Silva, estudante de Ciência da Computação na UDF e formado em Técnico em Tecnologia da Informação pelo Instituto Federal de Brasília (IFB).
+Eu sou Gabriel da Silva, estudante de Ciência da Computação na UDF e formado em Técnico em Tecnologia da Informação pelo Instituto Federal de Brasília (IFB).
 
 Atualmente estou desenvolvendo meus conhecimentos em programação e explorando diferentes áreas da computação para descobrir onde quero construir minha carreira.
 
